@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
         int[][] SudokuBoard = {
-                {0,6,0,3,0,0,0,0,7},
+                {0,6,0,3,0,0,0,0,7},    //plugin in the sudoku board here.
                 {8,1,5,0,0,2,0,0,0},
                 {4,3,7,0,0,0,0,2,5},
                 {0,5,8,4,0,0,0,0,3},
